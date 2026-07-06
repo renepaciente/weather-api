@@ -1,6 +1,6 @@
 # Weather API
 
-Laravel 11 take-home exam. Two endpoints that return current weather for a city from OpenWeatherMap, one live and one cached for 10 minutes.
+Laravel 12.62.0 take-home exam. Two endpoints that return current weather for a city from OpenWeatherMap, one live and one cached for 10 minutes.
 
 
 ## System requirements
